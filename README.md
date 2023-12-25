@@ -29,7 +29,6 @@
     <li>
       📬 See my CV: 
       <a href='https://ester-arruda.github.io/resume/' target="_blank">CV</a>
-      Veja meu CV: [CV](https://ester-arruda.github.io/resume/){:target="_blank"}
     </li>
   </ul>
 </h2>
