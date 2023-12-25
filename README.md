@@ -26,6 +26,10 @@
       📬 Contact via Linkedin: 
       <a href='https://www.linkedin.com/in/ester-arruda-lemes'>Ester Arruda</a>
     </li>
+    <li>
+      📬 See my CV: 
+      <a href='https://github.com/Ester-Arruda/resume'>CV</a>
+    </li>
   </ul>
 </h2>
 <div align="center">
