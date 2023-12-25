@@ -27,7 +27,7 @@
       <a href='https://www.linkedin.com/in/ester-arruda-lemes'>Ester Arruda</a>
     </li>
     <li>
-      📬 See my CV: 
+      📃 See my CV: 
       <a href='https://ester-arruda.github.io/resume/' target="_blank">CV</a>
     </li>
   </ul>
