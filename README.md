@@ -28,7 +28,7 @@
     </li>
     <li>
       📃 See my CV: 
-      <a href='https://ester-arruda.github.io/curriculo/' target="_blank">CV</a>
+      <a href='https://ester-arruda.github.io/Curriculo/' target="_blank">CV</a>
     </li>
   </ul>
 </h2>
