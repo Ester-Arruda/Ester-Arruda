@@ -63,15 +63,6 @@ I enjoy solving real problems with technology, writing clean code, and continuou
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Ester-Arruda&show_icons=true&theme=dark"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ester-Arruda&layout=compact&theme=dark"/>
-</div>
-
----
-
 ### 📫 Let's Connect
 
 💼 LinkedIn:  
