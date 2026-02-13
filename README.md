@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Full-Stack Web Developer | React • .NET • Python | Open to Junior Opportunities
+  Full-Stack Web Developer | React • .NET • Python
 </h3>
 
 ---
